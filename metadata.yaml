@@ -1,0 +1,29 @@
+_repo: The-Autobiography-of-Mark-Rutherford-Edited-by-his-friend-Reuben-Shapcott_3269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, William Hale
+    aliases:
+    - Shapcott, Reuben
+    - Rutherford, Mark
+    - White, W. Hale (William Hale)
+    birthdate: 1831
+    deathdate: 1913
+    gutenberg_agent_id: '1904'
+    url: http://www.gutenberg.org/2009/agents/1904
+    wikipedia: http://en.wikipedia.org/wiki/William_Hale_White
+description: ''
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Autobiography of Mark Rutherford, Edited by his friend Reuben Shapcott
+url: http://www.gutenberg.org/ebooks/3269
